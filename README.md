@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vidhi Jain
+- 👀 I am passionate to learn new automation tools and implement knowledge at my work to bring out the best.
+- 🌱 I’m currently learning Cypress, WebdriverIO, Api testing, Parallel testing
+- 📫 Reach me at vidhijain11@gmail.com
